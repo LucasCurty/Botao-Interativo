@@ -37,7 +37,7 @@ function clique(){
     }if(conta == 51){
         document.getElementById('corpo').remove()
         bum.src = 'bomba.jpg'
-        som.src = 'BOOM.wav'
+        som.src = 'BOOM.mp3'
         h1.innerHTML = `Parabéns <strong>${nome}</strong>. Você quebrou o site!`
 
         
