@@ -1,0 +1,67 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
+
+body{
+    margin-top: 15px;
+    background-color: #252422;
+    text-align: center;
+    font: normal bold 1em;
+}
+header{
+    max-width: 400px;
+    width: 100%;
+    color: white;
+    background-color: #EB5E28;
+    padding: 1px;
+    border-radius: 10px;
+    margin: auto; 
+    font-family: 'Press Start 2P', cursive;
+    font-size: 0.8rem;
+}
+h2{
+    font-size: 2.5em;
+}
+section{
+    background-color: #ece0e0;
+    max-width: 900px;
+    margin: 40px auto;    
+    padding: 10px;
+    border-radius: 50px  20px 50px 20px / 80px  30px 80px 30px;
+    font-family: 'Sniglet', cursive;
+    color: rgba(0, 0, 0, 0.747);
+    
+    
+    
+}
+input#red{
+    box-shadow: inset -3px -2px 11px 9px rgb(0 0 0 / 64%);
+    color: white;
+    background-color: red;
+    border-radius: 100%;
+    font-size: 2em;
+    font-family: 'Odibee Sans', cursive;
+    width: 200px;
+    height: 200px;
+}
+div#res{
+    font-size: 1.8em;
+    font-family: 'Sniglet', cursive;
+    color: black;
+}
+@media screen and (max-width: 600px){
+    *{
+        font-size: 1.1em;
+    }
+    section{
+        padding: 3px;
+        margin: 0;
+        font-size: 10px;
+        padding: 0px;
+    }
+    input#red{
+    width: 100px;
+    height: 100px;
+    }
+}
