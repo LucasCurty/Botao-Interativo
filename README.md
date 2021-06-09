@@ -1,8 +1,10 @@
 # Botao-Interativo
-Projeto feito para treinar o JS
-Projeto baseado em outro commit; Gostei e resolvi recriar do meu jeito.
-![botao](https://user-images.githubusercontent.com/74004642/120927727-4511ab00-c6b8-11eb-8dcc-99f23c6b158a.png)
+<strong>Projeto feito para treinar o JS</strong>
+<p>Projeto baseado em outro Repositorio; Gostei e resolvi recriar do meu jeito.</p>
+
+![site](https://user-images.githubusercontent.com/74004642/121438333-3d713100-c95a-11eb-8cf5-60dbc5573763.png)
 
 
 
-<b>https://lucascurty.github.io/Botao-Interativo/</b>
+
+<b><a href="https://lucascurty.github.io/Botao-Interativo/">Clique aqui</a> para conferir! </b>🎮
