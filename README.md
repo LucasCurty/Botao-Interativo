@@ -1,4 +1,4 @@
-# Botao-Interativo
+*-# Botao-Interativo
 <strong>Projeto feito para treinar o JS</strong>
 <p>Projeto baseado em outro Repositorio; Gostei e resolvi recriar do meu jeito.</p>
 
@@ -7,4 +7,4 @@
 
 
 
-<b><a href="https://lucascurty.github.io/Botao-Interativo/">Clique aqui</a> para conferir! </b>🎮
+<b><a href="https://lucascurty.github.io/Botao-Interativo/">Clique aqui</a> para conferir! </b>🎮-*
