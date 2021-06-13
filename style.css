@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
-
 body{
     margin-top: 15px;
     background-color: #252422;
@@ -31,9 +30,6 @@ section{
     border-radius: 50px  20px 50px 20px / 80px  30px 80px 30px;
     font-family: 'Sniglet', cursive;
     color: rgba(0, 0, 0, 0.747);
-    
-    
-    
 }
 input#red{
     box-shadow: inset -3px -2px 11px 9px rgb(0 0 0 / 64%);
