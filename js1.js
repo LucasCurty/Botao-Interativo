@@ -1,6 +1,6 @@
 let nome = prompt("Qual seu nome?");
 let res = document.getElementById('res')
-alert(`Olá ${nome}, Aviso! NÃO interaja como o botão!`)
+alert(`Olá ${nome}, Aviso! NÃO interaja com o botão!`)
 let conta = 0;
 let bum = document.getElementById('img')
 let som = document.getElementById('aud')
