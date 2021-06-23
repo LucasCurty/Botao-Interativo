@@ -27,7 +27,6 @@ section{
 }
 input#red{
     box-shadow: inset -3px -2px 11px 9px rgb(0 0 0 / 64%);
-    color: white;
     background-color: red;
     border-radius: 100%;
     font-size: 2em;
