@@ -2,12 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Sniglet&display=swap');
-body{
-    margin-top: 15px;
-    background-color: #252422;
-    text-align: center;
-    font: normal bold 1em;
-}
 header{
     max-width: 400px;
     width: 100%;
