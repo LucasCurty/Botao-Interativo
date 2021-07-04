@@ -7,4 +7,4 @@
 
 
 
-<b><a href="https://lucascurty.github.io/Botao-Interativo/">Clique aqui</a> para conferir! </b>🎮
+<b><a href="https://lucascurty.github.io/Botao-Interativo/" target="_blank">Clique aqui</a> para conferir! </b>🎮
