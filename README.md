@@ -2,7 +2,8 @@
 <strong>Projeto feito para treinar o JS</strong>
 <p>Projeto baseado em outro Repositorio; Gostei e resolvi recriar do meu jeito.</p>
 
-![site](https://user-images.githubusercontent.com/74004642/121438333-3d713100-c95a-11eb-8cf5-60dbc5573763.png)
+![botao interativo](https://user-images.githubusercontent.com/74004642/138177263-13bc027d-a472-43f9-8286-37513efd3e6c.png)
+
 
 
 
